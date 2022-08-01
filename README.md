@@ -1,5 +1,5 @@
 # Steps to Connect to Github with SSH
-Let’s now go over the steps to connect to Github with SSH on our Linux machine.
+Let’s now go over the steps to connect to Github with SSH 
 
 ## Generate the SSH key
 
